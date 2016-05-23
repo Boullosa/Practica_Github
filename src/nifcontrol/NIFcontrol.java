@@ -28,5 +28,6 @@ public class NIFcontrol {
                 fallo=true;
             }
         }while(fallo);
+        System.out.println("Programa finalizado");
     }
 }
